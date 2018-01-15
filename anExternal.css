@@ -1,0 +1,16 @@
+body {
+	background-color: #black;
+	font-family: arial, sans-serif;
+}
+img {
+	float: right;
+}
+h3 {
+	border-style: solid;
+	border-color: black;
+	border-radius: 25px;
+	border-width: 2px;
+	width: 500px;
+	margin: 5px;
+	text-align: center;
+}
